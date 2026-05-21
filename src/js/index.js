@@ -39,8 +39,4 @@ function mergeQuestoes(conteudo, questoes) {
 const DATA = [
   mergeQuestoes(CONTEUDO_PORTUGUES,   QUESTOES_PORTUGUES),
   mergeQuestoes(CONTEUDO_MATEMATICA,  QUESTOES_MATEMATICA),
-  mergeQuestoes(CONTEUDO_CIENCIAS,    QUESTOES_CIENCIAS),
-  mergeQuestoes(CONTEUDO_HISTORIA,    QUESTOES_HISTORIA),
-  mergeQuestoes(CONTEUDO_GEOGRAFIA,    QUESTOES_GEOGRAFIA),
-
 ];

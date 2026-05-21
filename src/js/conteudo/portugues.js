@@ -109,7 +109,7 @@ const CONTEUDO_PORTUGUES = {
     },
     {
       id: 'redacao',
-      nome: 'Redação',
+      nome: 'Sintaxe e colocação pronominal',
       subtopicos: [
         {
           id: 'dissertacao',
